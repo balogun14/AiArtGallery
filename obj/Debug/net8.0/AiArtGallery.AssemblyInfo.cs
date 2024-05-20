@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiArtGallery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eac227ad1ea56dc5b9c35ca8af08beba8ccc137")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiArtGallery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiArtGallery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
